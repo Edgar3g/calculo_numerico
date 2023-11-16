@@ -6,7 +6,7 @@ Este projeto implementa o Método da Bisseção para encontrar raízes de funç�
 
 ## Como Usar
 
-1. Execute o programa Python `bissecao.py`.
+1. Execute o programa Python `index.py`.
 2. Insira o intervalo de busca [A, B].
 3. Insira o limite de erro (E).
 4. Aguarde o cálculo.
