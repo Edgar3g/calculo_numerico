@@ -1,4 +1,4 @@
-# f(x) = x^3 - 9x +3 (minha função)
+# f(x) = x^3 - 9x + 3 (minha função)
 
 
 import math, time
@@ -20,7 +20,7 @@ B = b
 
 
 def validateIntervalo(x):
-    f = math.pow(x, 3) - (9 * x) + 3
+    f = math.pow(x, 3) - (9 * x) + 3  # x³ - 9x + 3
     return f
 
 

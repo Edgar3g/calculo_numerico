@@ -8,7 +8,7 @@ Este projeto implementa o Método da Bisseção para encontrar raízes de funç�
 
 1. Execute o programa Python `index.py`.
 2. Insira o intervalo de busca [A, B].
-3. Insira o limite de erro (E).
+3. Insira o limite (E).
 4. Aguarde o cálculo.
 
 O programa imprimirá uma tabela mostrando as iterações do Método da Bisseção, exibindo os valores de \(a\), \(b\), \(X_k\), \(f(X_k)\) e \(|b - a|\). O processo continua até que a diferença entre \(b\) e \(a\) seja menor ou igual ao limite de erro especificado.
